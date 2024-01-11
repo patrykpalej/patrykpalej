@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hi, I'm Patryk...
 
-<!--
-**patrykpalej/patrykpalej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+... a Python developer with a strong focus on data-related areas..
 
-Here are some ideas to get you started:
+I'm into fields like:
+- 📈 data analysis and visualization
+- 🌐️ web scraping 
+- 🔢 mathematical modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and more.
+
+**Besides my programming activity**, I also conduct [training sessions](https://www.sages.pl/o-nas/zespol/patryk-palej) and engage in various educational initiatives, including:
+- 👨‍💻 [data science bootcamp](https://datasciencepro.kodolamacz.pl/)
+- 🎓 [postgraduate studies](https://ds.ii.pw.edu.pl/wizualizacjadanych.html)
+- 🤝 private lessons
+
+---
+
+Check out my [personal homepage](https://patrykpalej.dev/)
