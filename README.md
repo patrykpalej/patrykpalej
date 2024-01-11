@@ -7,13 +7,10 @@ I'm into fields like:
 - 🌐️ web scraping 
 - 🔢 mathematical modeling
 
-and more.
+and more. Check out my my [personal homepage](https://patrykpalej.dev/) to learn more about my projects.
 
 **Besides my programming activity**, I also conduct [training sessions](https://www.sages.pl/o-nas/zespol/patryk-palej) and engage in various educational initiatives, including:
 - 👨‍💻 [data science bootcamp](https://datasciencepro.kodolamacz.pl/)
 - 🎓 [postgraduate studies](https://ds.ii.pw.edu.pl/wizualizacjadanych.html)
 - 🤝 private lessons
 
----
-
-Check out my [personal homepage](https://patrykpalej.dev/)
