@@ -5,9 +5,9 @@
 Interesuję się takimi tematami jak:
 
 - 📈 analiza i wizualizacja danych
+- 🤖 sztuczna inteligencja
 - 🌐️ web scraping
 - 🔢 modelowanie matematyczne
-- 🤖 sztuczna inteligencja
 
 ---
 
